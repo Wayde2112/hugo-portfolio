@@ -7,7 +7,8 @@ math:
 license: 
 hidden: false
 comments: true
-draft: true
+draft: false
+tags: ["Sports", "T&F"]
 ---
 
 Ho fatto la mia miglior gara di sempre sulla distanza degli 800m! Concludendo con il mio record personale, ottimo feeling e strategia, la ricorderò per sempre.
