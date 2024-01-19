@@ -23,10 +23,10 @@ icon = "brand-github"
 # [social.params]
 # icon = "brand-twitter"
 
-[[social]]
-identifier = "linkedin"
-name = "LinkedIn"
-url = "https://www.linkedin.com/in/stefanosaldana/"
+# [[social]]
+# identifier = "linkedin"
+# name = "LinkedIn"
+# url = "https://www.linkedin.com/in/stefanosaldana/"
 
-[social.params]
-icon = "brand-linkedin"
+# [social.params]
+# icon = "brand-linkedin"
