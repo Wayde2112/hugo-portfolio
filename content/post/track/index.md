@@ -3,6 +3,8 @@ title: "Track and Field"
 description: "My best race"
 date: 2024-01-19T16:46:51Z
 image: propic.png
+categories:
+    - Sports
 math: 
 license: 
 hidden: false
